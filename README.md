@@ -1,6 +1,3 @@
-# Hi there 👋
-## Give me a hard problem to solve ⚡&#129470;
-
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=iabdousd)
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40abderrahmane_sm)](https://twitter.com/abderrahmane_sm)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
@@ -9,15 +6,8 @@
 [![Abderrahmane's github stats](https://github-readme-stats.vercel.app/api?username=iabdousd&theme=dark&show_icons=true&count_private=true)](https://github.com/iabdousd)
 <br><br>
 
-Hey! My name is Abderrahmane, and you can call me Abdou.<br>
-I'm a Full Stack developer working as a Freelancer.
+Hi there! My name is Abderrahmane, but you can call me Abdou. I'm a Full Stack developer and a Freelancer. I have a diverse skillset and have worked with a wide range of technologies, both on the front-end and back-end, and at various levels of abstraction.
 
-Currently i've been working with many different technologies, front-end and back-end, low and high platform, each one focusing an different goal purpose.
+I believe that a well-designed user interface is just as important as efficient and reliable code. I thrive in problem-solving situations and enjoy tackling challenges head-on, no matter the language or framework.
 
-
-A beautiful and intuitive user interface is just as important as well coded software.
-
-No matter what the languages or frameworks you've thrown at me. I will get the job done!
-
-
-And i love to create algorithms and heuristics!
+In addition to my technical skills, I have a passion for creating algorithms and heuristics. I'm always looking for new opportunities to learn and grow as a developer. Let's work together and bring your project to life!
